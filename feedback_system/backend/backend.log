@@ -1,0 +1,26 @@
+2025-10-29 02:24:35,935 [INFO] Starting Feedback API...
+2025-10-29 02:24:35,936 [INFO] Working dir: C:\Users\jamie\Desktop\code\feedback_system\backend
+2025-10-29 02:24:35,937 [INFO] DB path: C:\Users\jamie\Desktop\code\feedback_system\backend\db.sqlite3
+2025-10-29 02:24:35,938 [ERROR] Fatal error on startup:
+Traceback (most recent call last):
+  File "C:\Users\jamie\Desktop\code\feedback_system\backend\app.py", line 65, in main
+    app,
+    ^^^
+NameError: name 'app' is not defined
+
+============================================================
+TRACEBACK:
+Traceback (most recent call last):
+  File "C:\Users\jamie\Desktop\code\feedback_system\backend\app.py", line 65, in main
+    app,
+    ^^^
+NameError: name 'app' is not defined
+2025-10-29 02:44:56,412 [INFO] Starting Feedback API…
+2025-10-29 02:44:56,414 [INFO] Working dir: C:\Users\jamie\Desktop\code\feedback_system\backend
+2025-10-29 02:44:56,414 [INFO] DB path: C:\Users\jamie\Desktop\code\feedback_system\backend\db.sqlite3
+2025-10-29 03:10:44,405 [INFO] Starting Feedback API…
+2025-10-29 03:10:44,405 [INFO] Working dir: C:\Users\jamie\Desktop\code\feedback_system\backend
+2025-10-29 03:10:44,406 [INFO] DB path: C:\Users\jamie\Desktop\code\feedback_system\backend\db.sqlite3
+2025-10-29 03:11:09,670 [INFO] Starting Feedback API…
+2025-10-29 03:11:09,671 [INFO] Working dir: c:\Users\jamie\Desktop\code\feedback_system\backend
+2025-10-29 03:11:09,672 [INFO] DB path: c:\Users\jamie\Desktop\code\feedback_system\backend\db.sqlite3

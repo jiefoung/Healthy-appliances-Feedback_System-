@@ -1,0 +1,14 @@
+# --- FastAPI stack (Python 3.12.10) ---
+fastapi>=0.110,<0.116
+pydantic>=2.5,<2.9
+pydantic-settings>=2.2,<2.5
+uvicorn[standard]>=0.29,<0.32
+sqlalchemy>=2.0,<2.1
+python-dotenv>=1.0,<2.0
+
+# optional: CORS 如需要
+# starlette>=0.37,<0.40
+
+# 打包工具（可裝在專門的 build 環境；若要直接在此環境打包也可放這）
+pyinstaller==6.16.0
+pyinstaller-hooks-contrib==2025.9
