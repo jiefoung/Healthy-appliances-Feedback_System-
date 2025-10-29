@@ -1,0 +1,19 @@
+# === GUI 主程式環境 (PySide6 Essentials) ===
+PySide6-Essentials>=6.6,<6.8
+
+# HTTP 請求與離線佇列同步
+requests>=2.31,<3.0
+
+# 環境變數讀取 (.env)
+python-dotenv>=1.0,<2.0
+
+# JSON / CSV 操作
+pandas>=2.2,<3.0
+
+# 可選：若有使用 GUI 提示訊息、音效等外掛，可解除註解
+# playsound>=1.3,<1.4
+# pillow>=10.0,<11.0
+
+# 打包相容工具（只需在開發機安裝）
+pyinstaller>=6.0,<7.0
+# 若使用 UPX 請確保已安裝在系統路徑中
